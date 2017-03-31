@@ -9,7 +9,7 @@ Return To
 
 <a href = "https://youtu.be/_GikMdhAhv0"> Learn how to Install Python 3.6 and PyGame </a> 
 
-Resource
-<a href = "www.maplesimulator.com/programs/bannedstory">
-<a href = "https://pixlr.com/editor/">
-<a href = "freesound.org/people/Kastenfrosch/packs/10069/">
+Resources
+<a href = "www.maplesimulator.com/programs/bannedstory"> </a>
+<a href = "https://pixlr.com/editor/"> </a>
+<a href = "freesound.org/people/Kastenfrosch/packs/10069/"> </a>
